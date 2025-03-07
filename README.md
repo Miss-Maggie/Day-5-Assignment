@@ -1,7 +1,9 @@
 # Day-5-Assignment
 
+NOTE: THE ANSWERS TO THESE QUESTIONS WERE GENERATED WITH THE ASSISTANCE OF Copilot, Deepseek and ChatGPT AI TOOLS.
+
 How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-1. Language and Terminology:-
+1. Useful Language and Terminology:-
   * Tech Experts - Use industry-specific jargon, technical terms, and detailed explanations. Experts appreciate precision and depth.
   * Regular Folks - Use simple, clear language and avoid technical jargon. Explain concepts using everyday terms and analogies.
 2. Detail and Depth:-
